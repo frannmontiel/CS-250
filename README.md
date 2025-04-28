@@ -1,4 +1,4 @@
-# CS-250
+# CS-250 8-2 Journal: Portfolio Item 
 Francisco Montiel
 SNHU CS-250 Projects
 
